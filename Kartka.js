@@ -22,7 +22,7 @@ onUpdate(()=>{
     if(gwiazdka.pos.x<500)
 {
     gwiazdka.pos.x=gwiazdka.pos.x + 1.5
-    gwiazdka.pos.y=gwiazdka.pos.y + 0.2
+    
 
 }
 
